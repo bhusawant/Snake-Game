@@ -22,7 +22,7 @@ You can move the snake by using arrow keys
 ![Snake game2](https://user-images.githubusercontent.com/102148710/209333582-1ce8c706-c498-4408-81f9-aedf7ed69eca.png)
 
 
-At the time of Game over you can press Enter to play again or you can close the window
+At the time of Game over you can press Enter to play again else you can close the window
 
 
 ![Game over](https://user-images.githubusercontent.com/102148710/209334086-a44a7909-0a7a-4db3-8a9a-97b708471645.png)
