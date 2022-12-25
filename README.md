@@ -11,15 +11,16 @@ Output:-
 After press Enter game will be start
 
 
-![Snake game1](https://user-images.githubusercontent.com/102148710/209333389-107c2d1e-51fa-416a-b10b-0d572454f8f5.png)
+![Screenshot (124)](https://user-images.githubusercontent.com/102148710/209472038-26600bcf-b4f2-4d8e-80cb-d3642525d0a8.png)
+
 
 
 
 
 You can move the snake by using arrow keys
 
+![Screenshot (125)](https://user-images.githubusercontent.com/102148710/209472054-d0501062-f0e2-4541-8920-78a4f0ab070c.png)
 
-![Snake game2](https://user-images.githubusercontent.com/102148710/209333582-1ce8c706-c498-4408-81f9-aedf7ed69eca.png)
 
 
 At the time of Game over you can press Enter to play again else you can close the window
